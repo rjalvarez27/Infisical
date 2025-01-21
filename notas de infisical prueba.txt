@@ -1,0 +1,42 @@
+Conectarnos con entidad infisical 
+------------------------------------
+
+
+Client ID
+
+c63c2388-cab9-4f2e-823e-7c1925cf7ad3
+
+Create Client Secret (1)
+
+53edcc05b24051248f1f4af5335d30306f435e4dea8d4ba11cafca38f87d9d4b
+
+
+
+secreto dentro del proyecto 
+--------------------------------
+
+ACCESS_TOKEN_SECRET
+
+supersecret
+
+
+New Client Secret (2)
+
+
+bf7c278dddb6e8a4e994552485e4e004c683dbabfc605472675d38192e3eeafb
+
+
+creación de token para acceder a la api 
+----------------------------------------
+
+token_machine_2
+
+st.bf6a94f0-074e-423a-8711-55545c420378.0ca38f4045d9ec0918d4b6ce31091599.3e9f52a2aab1c93d299d24fac61d45f5
+
+
+st.bf6a94f0-074e-423a-8711-55545c420378.0ca38f4045d9ec0918d4b6ce31091599.3e9f52a2aab1c93d299d24fac61d45f5
+
+
+status  200 
+
+{"secret":{"id":"90cc31b9-c735-4056-a914-00ce51de3099","_id":"90cc31b9-c735-4056-a914-00ce51de3099","workspace":"36bd0fe4-5406-4814-8287-d5adc1b9b182","environment":"dev","version":1,"type":"shared","secretKey":"ACCESS_TOKEN_SECRET","secretValue":"supersecret","secretComment":"","secretReminderNote":null,"secretReminderRepeatDays":null,"skipMultilineEncoding":false,"metadata":null,"createdAt":"2025-01-21T17:08:45.823Z","updatedAt":"2025-01-21T17:08:45.823Z","tags":[],"secretMetadata":[]}}
