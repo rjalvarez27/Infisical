@@ -1,6 +1,6 @@
 Practica de Infisical.
 
-1. Practica sensilla y como hacer consultas de Token secretos para posteriormente poderlo utilizar.
+1. Practica sencilla y como hacer consultas de Token secretos para posteriormente poderlo utilizar.
 
 ![Screenshot 2025-01-21 173222](https://github.com/user-attachments/assets/f98fc86a-4938-4550-9191-c85a313f3c9b)
 
